@@ -32,10 +32,14 @@ The [mean][mean] for a [Gumbel][gumbel-distribution] random variable with locati
 
 <!-- <equation class="equation" label="eq:gumbel_mean" align="center" raw="\mathbb{E} \left[ X \right] = \mu +\beta \,\gamma" alt="Mean for a Gumbel distribution."> -->
 
-<div class="equation" align="center" data-raw-text="\mathbb{E} \left[ X \right] = \mu +\beta \,\gamma" data-equation="eq:gumbel_mean">
+```math
+\mathbb{E} \left[ X \right] = \mu +\beta \,\gamma
+```
+
+<!-- <div class="equation" align="center" data-raw-text="\mathbb{E} \left[ X \right] = \mu +\beta \,\gamma" data-equation="eq:gumbel_mean">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@51534079fef45e990850102147e8945fb023d1d0/lib/node_modules/@stdlib/stats/base/dists/gumbel/mean/docs/img/equation_gumbel_mean.svg" alt="Mean for a Gumbel distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -218,7 +222,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
