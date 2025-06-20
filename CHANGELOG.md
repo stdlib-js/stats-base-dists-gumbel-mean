@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-31)
+## Unreleased (2025-06-20)
 
 <section class="features">
 
@@ -15,6 +15,16 @@
 </section>
 
 <!-- /.features -->
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`32e4068`](https://github.com/stdlib-js/stdlib/commit/32e40687fc5b2e5ed1717b63ca2eda830ddcca44) - remove unused `exp` and `eps` dependencies from `gumbel/mean` manifest
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="issues">
 
@@ -34,6 +44,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`32e4068`](https://github.com/stdlib-js/stdlib/commit/32e40687fc5b2e5ed1717b63ca2eda830ddcca44) - **fix:** remove unused `exp` and `eps` dependencies from `gumbel/mean` manifest _(by Philipp Burckhardt)_
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`9f2c153`](https://github.com/stdlib-js/stdlib/commit/9f2c153fdf42e0d123212d4dfaec574db34680a4) - **feat:** add C implementation of `stats/base/dists/gumbel/mean` [(#4086)](https://github.com/stdlib-js/stdlib/pull/4086) _(by Vinit Pandit, Philipp Burckhardt, stdlib-bot)_
 -   [`105b812`](https://github.com/stdlib-js/stdlib/commit/105b8121cd65f5bb520351b48c945996e1dfb6aa) - **bench:** refactor random number generation in `stats/base/dists/gumbel` [(#4933)](https://github.com/stdlib-js/stdlib/pull/4933) _(by Karan Anand, stdlib-bot)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
