@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-29)
+## Unreleased (2025-06-30)
 
 <section class="features">
 
@@ -44,6 +44,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`0a23889`](https://github.com/stdlib-js/stdlib/commit/0a23889dd55afcd8f1a85cd208a2397c931637bd) - **test:** increase tolerances for passing tests _(by Philipp Burckhardt)_
 -   [`c698e73`](https://github.com/stdlib-js/stdlib/commit/c698e73a6365ec5d828861bb26a6e3bb74fb1af8) - **chore:** add missing eps dependency to benchmark and examples configs _(by Philipp Burckhardt)_
 -   [`32e4068`](https://github.com/stdlib-js/stdlib/commit/32e40687fc5b2e5ed1717b63ca2eda830ddcca44) - **fix:** remove unused `exp` and `eps` dependencies from `gumbel/mean` manifest _(by Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
