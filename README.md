@@ -69,7 +69,7 @@ where `γ` is the [Euler–Mascheroni constant][euler-mascheroni].
 ## Usage
 
 ```javascript
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-mean@deno/mod.js';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-mean@v0.3.0-deno/mod.js';
 ```
 
 #### mean( mu, beta )
@@ -130,7 +130,7 @@ y = mean( 0.0, -1.0 );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-mean@deno/mod.js';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-mean@v0.3.0-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
