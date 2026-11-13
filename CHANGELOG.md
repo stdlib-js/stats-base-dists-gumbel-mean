@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-19)
+## Unreleased (2026-11-13)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`635af9a`](https://github.com/stdlib-js/stdlib/commit/635af9a74bb9aa9e7f8ed4b6036b79053d118c72) - **refactor:** use `constants/float64/nan` in `stats/base/dists/gumbel/mean` [(#16610)](https://github.com/stdlib-js/stdlib/pull/16610) _(by Razeen Shaheed)_
 -   [`d971ff2`](https://github.com/stdlib-js/stdlib/commit/d971ff2c086ec34c8be64585c26a5a2782a8cfa4) - **test:** migrate `stats/base/dists/gumbel/mean` to ULP-based assertions [(#15081)](https://github.com/stdlib-js/stdlib/pull/15081) _(by Athan Reines)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
@@ -31,11 +32,12 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Bhargav Dabhade
 -   Philipp Burckhardt
+-   Razeen Shaheed
 -   anee3
 
 </section>
